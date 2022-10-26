@@ -1,0 +1,10 @@
+{
+  "klass": "Configs::Project::Language",
+  "defaultLanguage": "es",
+  "choosableLanguageCode": [
+    "es"
+  ],
+  "choosableLanguageTexts": [
+    "Spanish"
+  ]
+}
